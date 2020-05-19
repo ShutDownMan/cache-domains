@@ -3,6 +3,7 @@
 		{
 			"name": "Evolua",
 			"description": "CDN for Evolua Educação platform",
+			"mixed_content": true,
 			"domain_files": ["evolua.txt"]
 		},
 		{

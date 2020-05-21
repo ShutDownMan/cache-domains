@@ -1,2 +1,3 @@
 *.cloudfront.net
 d2ywky1zxgtonc.cloudfront.net
+app.evoluaeducacao.com.br
